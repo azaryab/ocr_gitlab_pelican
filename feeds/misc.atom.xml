@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>BlogAzary - misc</title><link href="https://azaryab.github.io/ocr_gitlab_pelican/" rel="alternate"></link><link href="https://azaryab.github.io/ocr_gitlab_pelican/feeds/misc.atom.xml" rel="self"></link><id>https://azaryab.github.io/ocr_gitlab_pelican/</id><updated>2021-06-01T00:00:00+02:00</updated><entry><title>Bonjour</title><link href="https://azaryab.github.io/ocr_gitlab_pelican/bonjour.html" rel="alternate"></link><published>2021-06-01T00:00:00+02:00</published><updated>2021-06-01T00:00:00+02:00</updated><author><name>Azary</name></author><id>tag:azaryab.github.io,2021-06-01:/ocr_gitlab_pelican/bonjour.html</id><content type="html">&lt;!-- Category: bonjour --&gt;
+&lt;!-- Tags: pelican, gitlab --&gt;
+&lt;!-- Slug: Bonjour --&gt;
+&lt;p&gt;Authors: Azary&lt;/p&gt;
+&lt;!-- Summary: Short version for index and feeds --&gt;
+
+&lt;p&gt;Bonjour,
+Mon deuxieme  article&lt;/p&gt;</content><category term="misc"></category></entry></feed>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>BlogAzary - python</title><link href="https://azaryab.github.io/ocr_gitlab_pelican/" rel="alternate"></link><link href="https://azaryab.github.io/ocr_gitlab_pelican/feeds/python.atom.xml" rel="self"></link><id>https://azaryab.github.io/ocr_gitlab_pelican/</id><updated>2021-06-01T00:00:00+02:00</updated><entry><title>Hello</title><link href="https://azaryab.github.io/ocr_gitlab_pelican/hello.html" rel="alternate"></link><published>2021-06-01T00:00:00+02:00</published><updated>2021-06-01T00:00:00+02:00</updated><author><name>Azary</name></author><id>tag:azaryab.github.io,2021-06-01:/ocr_gitlab_pelican/hello.html</id><summary type="html">&lt;p&gt;Short version for index and feeds&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hello,
+This is the content of my first article&lt;/p&gt;
+&lt;h1&gt;Table of contents&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="#introduction"&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#paragraph1"&gt;Some paragraph&lt;/a&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href="#subparagraph1"&gt;Sub paragraph&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="#paragraph2"&gt;Another paragraph&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;This is the introduction &lt;a name="introduction"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Some introduction text, formatted in heading 2 style&lt;/p&gt;
+&lt;h2&gt;Some paragraph &lt;a name="paragraph1"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The first paragraph text&lt;/p&gt;
+&lt;h3&gt;Sub paragraph &lt;a name="subparagraph1"&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This is a sub paragraph, formatted in heading 3 style&lt;/p&gt;
+&lt;h2&gt;Another paragraph &lt;a name="paragraph2"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The second paragraph text&lt;/p&gt;</content><category term="python"></category><category term="pelican"></category><category term="gitlab"></category></entry></feed>
